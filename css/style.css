@@ -60,3 +60,9 @@ ul li.active a{
     font-size: 40px;
 }
 
+.center
+ { margin: 0 auto;
+     width: 1000px; 
+     display: block;
+     padding: 50px;
+    }
